@@ -1,0 +1,5 @@
+1 - Get file from "caixa" website - "https://venda-imoveis.caixa.gov.br/sistema/download-lista.asp"
+2 - Get infos with pandas from public sale spread sheets "caixa"
+3 - Get values of place from imobiliary websites like "zap imoveis","olx", "tenda" and "viva real"
+4 - take the average prices and compare if value is expensive or sheap
+5 - explode in grafic the best prices
